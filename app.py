@@ -6,9 +6,9 @@ import joblib
 # LOAD MODEL AND SCALER
 # =========================
 
-model = joblib.load("../models/random_forest.pkl")
+model = joblib.load("models/random_forest.pkl")
 
-scaler = joblib.load("../models/scaler.pkl")
+scaler = joblib.load("models/scaler.pkl")
 
 # =========================
 # PAGE CONFIG

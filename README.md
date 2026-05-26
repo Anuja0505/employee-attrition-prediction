@@ -1,5 +1,10 @@
 # Employee Attrition Prediction System
 
+## Live demo
+
+https://employee-attrition-prediction-anuja.streamlit.app/
+
+
 ## Overview
 
 This project is a Machine Learning based web application that predicts whether an employee is likely to leave the company.
